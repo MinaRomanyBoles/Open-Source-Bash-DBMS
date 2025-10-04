@@ -7,7 +7,7 @@
 ---
 
 <div align="center">
-  <img src="assets/cli-dbms.png" alt="Bash DBMS Logo" width="650"/>
+  
   
   A lightweight, menu-driven **Database Management System (DBMS)** built entirely in **Bash scripting**.  
   Manage databases and tables using just your terminal — no external dependencies required!  
