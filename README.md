@@ -71,7 +71,7 @@ chmod +x main.sh
 ---
 📂 Project Structure 
 ```
-smdb/
+OS-Bash-DBMS/
 │
 ├── main.sh              # Entry point (Main Menu)
 │
